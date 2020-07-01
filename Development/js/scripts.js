@@ -6,6 +6,9 @@ let instructor = {
     numberOfRepos: 200,
   },
   sayHello: function () {
+    console.log("Menawer");
+    console.log("javascript");
+    console.log("careless10");
     console.log("Hi, I'm Menawer");
   },
 };
